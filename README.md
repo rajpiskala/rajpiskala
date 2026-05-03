@@ -1,4 +1,4 @@
-# 👋 Hi, I’m RogueArt
+# 👋 Hi, I’m Raj Piskala
 
 Welcome to my GitHub! I’m a systems and infrastructure engineer obsessed with building tools that create leverage, scale, and growth—both for myself and for others. My work blends backend automation, distributed systems, productivity engineering, and programming language tooling.
 
@@ -82,6 +82,7 @@ I’m always looking to share what I learn—whether it’s writing guides, cont
 
 ## 📬 **Contact**
 
+(RogueArt is my personal handle across platforms)
 - **Email:** [hi@rogueart.dev](mailto:hi@rogueart.dev)
 - **Discord:** @rogueart
 
